@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Gothic Bold';
+    src: url('https://raw.githubusercontent.com/simbird/blanket-fonts/blob/main/GOTHICB.TTF');
+    font-weight: 100;
+    font-style: normal;
+} 
+@font-face {
+    font-family: 'Century Gothic';
+    src: url('https://raw.githubusercontent.com/simbird/blanket-fonts/blob/main/Century%20Gothic.ttf');
+    font-weight: 100;
+    font-style: normal;
+} 
+
